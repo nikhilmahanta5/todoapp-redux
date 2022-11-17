@@ -1,0 +1,22 @@
+
+.todo_app{
+    height: 520px;
+    width: 50%;
+    margin:20%;
+    margin-bottom:25%;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 50px;
+    background: white;
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 4px 0px, rgba(0,0,0,0.15) 8px 64px 64px 0px ;
+    padding: 10px;
+}
+.todo_heading{
+    font-weight: 700;
+    text-align: center;
+    color: rgba(192, 64, 204, 0.829);
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+}
